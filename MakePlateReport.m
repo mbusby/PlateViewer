@@ -18,12 +18,6 @@ function [ output_args ] = MakePlateReport( metricsFileName, coordinatesFileName
     mcc -m -o MakePlateReport -R -singleCompThread MakePlateReport.m
 
 
-    clear
-    metricsFileName='I:\MATLAB\PlateReport\metricsFile.txt';
-    coordinatesFileName='I:\MATLAB\PlateReport\coordinatesFile.txt'; 
-    metricBoundariesFileName='I:\MATLAB\PlateReport\metricBoundariesFile.txt'; 
-    outputDirName='I:\MATLAB\PlateReport\';
-    reportTitle='Wicked Cool Report';
     %}
    
 
