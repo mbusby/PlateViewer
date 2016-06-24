@@ -1,0 +1,385 @@
+Sample	Metric	Value
+1	% Variant Strain A	63.51089962
+2	% Variant Strain A	57.0249777
+3	% Variant Strain A	47.42204988
+4	% Variant Strain A	36.78601188
+5	% Variant Strain A	67.99245465
+6	% Variant Strain A	49.24310172
+7	% Variant Strain A	42.74345303
+8	% Variant Strain A	43.88805527
+9	% Variant Strain A	39.4319765
+10	% Variant Strain A	50.03117881
+11	% Variant Strain A	52.7048157
+12	% Variant Strain A	58.43070731
+13	% Variant Strain A	63.52995653
+14	% Variant Strain A	38.4283764
+15	% Variant Strain A	48.00659633
+16	% Variant Strain A	42.90963527
+17	% Variant Strain A	47.39895336
+18	% Variant Strain A	64.21173333
+19	% Variant Strain A	66.34231474
+20	% Variant Strain A	59.85233818
+21	% Variant Strain A	62.65444602
+22	% Variant Strain A	52.95298165
+23	% Variant Strain A	43.35949067
+24	% Variant Strain A	45.09999257
+25	% Variant Strain A	55.73292615
+26	% Variant Strain A	54.07933047
+27	% Variant Strain A	47.26245478
+28	% Variant Strain A	50.12382368
+29	% Variant Strain A	42.80412831
+30	% Variant Strain A	53.15291529
+31	% Variant Strain A	40.5310433
+32	% Variant Strain A	45.59469682
+33	% Variant Strain A	36.63597521
+34	% Variant Strain A	37.01598167
+35	% Variant Strain A	47.85150938
+36	% Variant Strain A	49.2175958
+37	% Variant Strain A	56.48774577
+38	% Variant Strain A	62.03186064
+39	% Variant Strain A	65.99310681
+40	% Variant Strain A	37.72392723
+41	% Variant Strain A	50.28479018
+42	% Variant Strain A	46.31054112
+43	% Variant Strain A	51.79562191
+44	% Variant Strain A	60.31239674
+45	% Variant Strain A	50.95690462
+46	% Variant Strain A	63.08138017
+47	% Variant Strain A	57.36393212
+48	% Variant Strain A	59.48934432
+49	% Variant Strain A	76.38856089
+50	% Variant Strain A	84.53065859
+51	% Variant Strain A	75.26203914
+52	% Variant Strain A	77.61208598
+53	% Variant Strain A	74.46443601
+54	% Variant Strain A	75.62209283
+55	% Variant Strain A	73.84465512
+56	% Variant Strain A	82.04910643
+57	% Variant Strain A	68.94713554
+58	% Variant Strain A	71.78868417
+59	% Variant Strain A	70.6892581
+60	% Variant Strain A	69.56686132
+61	% Variant Strain A	67.62527623
+62	% Variant Strain A	84.08479922
+63	% Variant Strain A	51.82921477
+64	% Variant Strain A	57.17373171
+65	% Variant Strain A	52.86428041
+66	% Variant Strain A	78.37526924
+67	% Variant Strain A	97.90033123
+68	% Variant Strain A	97.76285499
+69	% Variant Strain A	3.633558482
+70	% Variant Strain A	3.833900319
+71	% Variant Strain A	97.81186669
+72	% Variant Strain A	97.81481522
+73	% Variant Strain A	3.536783
+74	% Variant Strain A	3.215423034
+75	% Variant Strain A	54.42571982
+76	% Variant Strain A	54.88781148
+77	% Variant Strain A	55.06181401
+78	% Variant Strain A	55.41940374
+79	% Variant Strain A	97.76494359
+80	% Variant Strain A	97.54774488
+81	% Variant Strain A	3.297220914
+82	% Variant Strain A	3.490955574
+83	% Variant Strain A	97.98773851
+84	% Variant Strain A	97.86450209
+85	% Variant Strain A	3.828141886
+86	% Variant Strain A	3.610776435
+87	% Variant Strain A	53.64396804
+88	% Variant Strain A	53.99512487
+89	% Variant Strain A	46.66666667
+90	% Variant Strain A	53.10318295
+91	% Variant Strain A	97.2443209
+92	% Variant Strain A	98.01162278
+93	% Variant Strain A	5.573532838
+94	% Variant Strain A	3.536040679
+95	% Variant Strain A	55.04166104
+96	% Variant Strain A	55.14349983
+1	% Variant Strain B	36.32177906
+2	% Variant Strain B	42.80298203
+3	% Variant Strain B	52.40792162
+4	% Variant Strain B	63.02179932
+5	% Variant Strain B	31.82693851
+6	% Variant Strain B	50.57265685
+7	% Variant Strain B	57.08013172
+8	% Variant Strain B	55.93746729
+9	% Variant Strain B	60.37077396
+10	% Variant Strain B	49.78938393
+11	% Variant Strain B	47.11215622
+12	% Variant Strain B	41.38701282
+13	% Variant Strain B	36.27967998
+14	% Variant Strain B	61.40516849
+15	% Variant Strain B	51.82238781
+16	% Variant Strain B	56.87397931
+17	% Variant Strain B	52.43066355
+18	% Variant Strain B	35.6087894
+19	% Variant Strain B	33.48818522
+20	% Variant Strain B	40.01058163
+21	% Variant Strain B	37.16325704
+22	% Variant Strain B	46.82520521
+23	% Variant Strain B	56.45913533
+24	% Variant Strain B	54.75429336
+25	% Variant Strain B	44.07828984
+26	% Variant Strain B	45.74799279
+27	% Variant Strain B	52.59257252
+28	% Variant Strain B	49.68012217
+29	% Variant Strain B	56.99519001
+30	% Variant Strain B	46.63439677
+31	% Variant Strain B	59.29419723
+32	% Variant Strain B	54.22763917
+33	% Variant Strain B	63.20274418
+34	% Variant Strain B	62.78243467
+35	% Variant Strain B	51.97851509
+36	% Variant Strain B	50.60250651
+37	% Variant Strain B	43.35646178
+38	% Variant Strain B	37.76134312
+39	% Variant Strain B	33.82693833
+40	% Variant Strain B	62.08721011
+41	% Variant Strain B	49.5154405
+42	% Variant Strain B	53.48948821
+43	% Variant Strain B	48.03490366
+44	% Variant Strain B	39.52111029
+45	% Variant Strain B	48.87321014
+46	% Variant Strain B	36.72156392
+47	% Variant Strain B	42.45874733
+48	% Variant Strain B	40.3567781
+49	% Variant Strain B	23.42700988
+50	% Variant Strain B	15.29270754
+51	% Variant Strain B	24.56082484
+52	% Variant Strain B	22.19269896
+53	% Variant Strain B	25.34500008
+54	% Variant Strain B	24.13232281
+55	% Variant Strain B	25.93675007
+56	% Variant Strain B	17.79710452
+57	% Variant Strain B	30.83163018
+58	% Variant Strain B	28.04826349
+59	% Variant Strain B	29.11663102
+60	% Variant Strain B	30.22938285
+61	% Variant Strain B	32.20151705
+62	% Variant Strain B	15.73844753
+63	% Variant Strain B	47.97546416
+64	% Variant Strain B	42.63668765
+65	% Variant Strain B	46.95071289
+66	% Variant Strain B	21.4301449
+67	% Variant Strain B	1.924696371
+68	% Variant Strain B	2.081442777
+69	% Variant Strain B	96.19029107
+70	% Variant Strain B	95.9771046
+71	% Variant Strain B	2.039649257
+72	% Variant Strain B	2.012351523
+73	% Variant Strain B	96.27719066
+74	% Variant Strain B	96.61160622
+75	% Variant Strain B	45.40165756
+76	% Variant Strain B	44.95741039
+77	% Variant Strain B	44.77548244
+78	% Variant Strain B	44.41510864
+79	% Variant Strain B	2.085754644
+80	% Variant Strain B	2.29194046
+81	% Variant Strain B	96.52221699
+82	% Variant Strain B	96.30512636
+83	% Variant Strain B	1.844805612
+84	% Variant Strain B	1.983622034
+85	% Variant Strain B	95.97612815
+86	% Variant Strain B	96.21036157
+87	% Variant Strain B	46.19699967
+88	% Variant Strain B	45.83755087
+89	% Variant Strain B	53.33333333
+90	% Variant Strain B	46.75198298
+91	% Variant Strain B	2.564664321
+92	% Variant Strain B	1.841811268
+93	% Variant Strain B	94.26467162
+94	% Variant Strain B	96.30454202
+95	% Variant Strain B	44.78163233
+96	% Variant Strain B	44.69984535
+1	% Neither	0.167321316
+2	% Neither	0.17204027
+3	% Neither	0.170028501
+4	% Neither	0.192188802
+5	% Neither	0.180606839
+6	% Neither	0.184241432
+7	% Neither	0.176415242
+8	% Neither	0.17447744
+9	% Neither	0.197249541
+10	% Neither	0.179437254
+11	% Neither	0.183028085
+12	% Neither	0.182279868
+13	% Neither	0.190363491
+14	% Neither	0.166455105
+15	% Neither	0.171015865
+16	% Neither	0.216385411
+17	% Neither	0.170383092
+18	% Neither	0.179477272
+19	% Neither	0.169500038
+20	% Neither	0.137080192
+21	% Neither	0.182296941
+22	% Neither	0.221813134
+23	% Neither	0.181374001
+24	% Neither	0.145714073
+25	% Neither	0.188784009
+26	% Neither	0.172676742
+27	% Neither	0.144972699
+28	% Neither	0.196054152
+29	% Neither	0.200681681
+30	% Neither	0.212687935
+31	% Neither	0.174759471
+32	% Neither	0.177664005
+33	% Neither	0.161280616
+34	% Neither	0.201583664
+35	% Neither	0.169975524
+36	% Neither	0.179897689
+37	% Neither	0.15579245
+38	% Neither	0.206796236
+39	% Neither	0.179954859
+40	% Neither	0.188862658
+41	% Neither	0.199769314
+42	% Neither	0.199970671
+43	% Neither	0.169474428
+44	% Neither	0.166492972
+45	% Neither	0.169885241
+46	% Neither	0.197055906
+47	% Neither	0.177320555
+48	% Neither	0.153877579
+49	% Neither	0.184429225
+50	% Neither	0.176633863
+51	% Neither	0.177136016
+52	% Neither	0.195215062
+53	% Neither	0.19056391
+54	% Neither	0.245584361
+55	% Neither	0.218594816
+56	% Neither	0.153789044
+57	% Neither	0.221234277
+58	% Neither	0.16305234
+59	% Neither	0.194110873
+60	% Neither	0.203755829
+61	% Neither	0.173206713
+62	% Neither	0.176753244
+63	% Neither	0.195321073
+64	% Neither	0.189580648
+65	% Neither	0.185006702
+66	% Neither	0.194585863
+67	% Neither	0.174972397
+68	% Neither	0.155702236
+69	% Neither	0.176150445
+70	% Neither	0.188995086
+71	% Neither	0.148484058
+72	% Neither	0.172833254
+73	% Neither	0.18602634
+74	% Neither	0.172970744
+75	% Neither	0.172622624
+76	% Neither	0.154778134
+77	% Neither	0.162703546
+78	% Neither	0.16548762
+79	% Neither	0.149301768
+80	% Neither	0.160314664
+81	% Neither	0.180562098
+82	% Neither	0.203918068
+83	% Neither	0.16745588
+84	% Neither	0.151875872
+85	% Neither	0.195729965
+86	% Neither	0.178861991
+87	% Neither	0.159032282
+88	% Neither	0.167324258
+89	% Neither	0
+90	% Neither	0.144834063
+91	% Neither	0.191014775
+92	% Neither	0.14656595
+93	% Neither	0.161795542
+94	% Neither	0.159417302
+95	% Neither	0.17670663
+96	% Neither	0.156654817
+1	N Reads Evaluated	23565
+2	N Reads Evaluated	18532
+3	N Reads Evaluated	23448
+4	N Reads Evaluated	19712
+5	N Reads Evaluated	15998
+6	N Reads Evaluated	18580
+7	N Reads Evaluated	9481
+8	N Reads Evaluated	21832
+9	N Reads Evaluated	16180
+10	N Reads Evaluated	20580
+11	N Reads Evaluated	22468
+12	N Reads Evaluated	27518
+13	N Reads Evaluated	20208
+14	N Reads Evaluated	20885
+15	N Reads Evaluated	17472
+16	N Reads Evaluated	21589
+17	N Reads Evaluated	20107
+18	N Reads Evaluated	19573
+19	N Reads Evaluated	20601
+20	N Reads Evaluated	18522
+21	N Reads Evaluated	18199
+22	N Reads Evaluated	18334
+23	N Reads Evaluated	15758
+24	N Reads Evaluated	18306
+25	N Reads Evaluated	21095
+26	N Reads Evaluated	20347
+27	N Reads Evaluated	22786
+28	N Reads Evaluated	18149
+29	N Reads Evaluated	17249
+30	N Reads Evaluated	17627
+31	N Reads Evaluated	17517
+32	N Reads Evaluated	16634
+33	N Reads Evaluated	16625
+34	N Reads Evaluated	17754
+35	N Reads Evaluated	20541
+36	N Reads Evaluated	24218
+37	N Reads Evaluated	19898
+38	N Reads Evaluated	17386
+39	N Reads Evaluated	15212
+40	N Reads Evaluated	21398
+41	N Reads Evaluated	23847
+42	N Reads Evaluated	21355
+43	N Reads Evaluated	29974
+44	N Reads Evaluated	20278
+45	N Reads Evaluated	16468
+46	N Reads Evaluated	23130
+47	N Reads Evaluated	19913
+48	N Reads Evaluated	18482
+49	N Reads Evaluated	25111
+50	N Reads Evaluated	16578
+51	N Reads Evaluated	20837
+52	N Reads Evaluated	24977
+53	N Reads Evaluated	13715
+54	N Reads Evaluated	16283
+55	N Reads Evaluated	12080
+56	N Reads Evaluated	5930
+57	N Reads Evaluated	12442
+58	N Reads Evaluated	9793
+59	N Reads Evaluated	15454
+60	N Reads Evaluated	13496
+61	N Reads Evaluated	7250
+62	N Reads Evaluated	10843
+63	N Reads Evaluated	10552
+64	N Reads Evaluated	8880
+65	N Reads Evaluated	9378
+66	N Reads Evaluated	9605
+67	N Reads Evaluated	13010
+68	N Reads Evaluated	12126
+69	N Reads Evaluated	8867
+70	N Reads Evaluated	9685
+71	N Reads Evaluated	12663
+72	N Reads Evaluated	9358
+73	N Reads Evaluated	8638
+74	N Reads Evaluated	9520
+75	N Reads Evaluated	11374
+76	N Reads Evaluated	10859
+77	N Reads Evaluated	8577
+78	N Reads Evaluated	8483
+79	N Reads Evaluated	13655
+80	N Reads Evaluated	12074
+81	N Reads Evaluated	11884
+82	N Reads Evaluated	11950
+83	N Reads Evaluated	13284
+84	N Reads Evaluated	11923
+85	N Reads Evaluated	9653
+86	N Reads Evaluated	9635
+87	N Reads Evaluated	9692
+88	N Reads Evaluated	11206
+89	N Reads Evaluated	46
+90	N Reads Evaluated	9714
+91	N Reads Evaluated	16199
+92	N Reads Evaluated	12545
+93	N Reads Evaluated	9759
+94	N Reads Evaluated	8736
+95	N Reads Evaluated	9787
+96	N Reads Evaluated	11999

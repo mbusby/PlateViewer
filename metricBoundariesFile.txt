@@ -1,0 +1,5 @@
+Metric	Start 	End	Plot
+% Variant Strain A	0	100	1
+% Variant Strain B	0	100	1
+% Neither	0	5	1
+N Reads Evaluated	0	50000	1

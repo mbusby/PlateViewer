@@ -1,0 +1,31 @@
+To run:
+
+cd to installation directory:
+	cd /cil/shed/apps/internal/RNA_utilities/PlateReportingTool/current
+
+set up environment to call the Matlab runtime compiler:
+	use .matlab_2013a_mcr
+
+Run the command in this format,
+	MakePlateReport metricsFileName  coordinatesFileName  metricBoundariesFileName  reportTitle  outputDirName 
+
+For example:
+	./MakePlateReport ../DemoData/metricsFile.txt ../DemoData/coordinatesFile.txt ../DemoData/metricBoundariesFile.txt 'Test Report' ../DemoData/testReport
+
+
+You need three files. These are in the DemoData directory.
+
+
+
+File formats
+        Metrics file:
+            
+            Sample Metric Score (float)    
+        
+        
+        CoordinatesFile (file optional, must have coordinate for each
+        sample if present - if no file put in dummy file name. All coordinates start at 1. Negative, zero values are ignored in plots.)
+            Sample X Y Z
+
+        Metric Boundaries (file optional, metrics optional - if no file put in a dummy file name)
+            Metric  Min     Max  Plot
